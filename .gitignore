@@ -1,0 +1,17 @@
+# Android/Gradle
+.gradle/
+build/
+*/build/
+local.properties
+
+# Android Studio/IntelliJ
+.idea/
+*.iml
+
+# Native build folders
+.cxx/
+.externalNativeBuild/
+
+# OS files
+.DS_Store
+Thumbs.db
