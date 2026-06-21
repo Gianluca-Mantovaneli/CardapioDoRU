@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Cardapio Ru</string>
+    <string name="titulo_salada">Salada:</string>
+    <string name="titulo_prato_principal">Prato Principal:</string>
+    <string name="titulo_acompanhamento">Acompanhamento:</string>
+    <string name="titulo_opcao">Opção:</string>
+    <string name="titulo_guarnicao">Guarnição:</string>
+    <string name="titulo_sobremesa">Sobremesa:</string>
+    <string name="titulo_suco">Suco:</string>
 </resources>
